@@ -85,7 +85,7 @@ Outcomes addressed in week 1:
 1. [Gradient Descent](slides/LogisticRegressionML_Jay.pdf)   
 - [Normal Equation Derivation](http://jayurbain.com/msoe/cs498-machinelearning/Normal%20Equation%20derivation%20for%20linear%20regression.pdf)   
 
-2. [Logistic Regression](notebooks/5&#32;-&#32;Python&#32;Numpy&#32;Aggregates.ipynb)    
+2. [Logistic Regression](slides/LogisticRegressionML_Jay.pdf)    
 
 #### Lab Notebooks:
 - [Gradient Descent Learning](notebooks/gradient_descent_assignment.ipynb) *Submission required*
@@ -109,8 +109,8 @@ Outcomes addressed in week 2:
 - [Information Gain Calculation Spreadsheet](http://jayurbain.com/msoe/cs4881/infogain.xls)
 
 #### Lab Notebooks:
-[Introduction to Machine Learning with SciKit Learn.ipynb](notebooks/Introduction%20to%20Machine%20Learning%20with%20SciKit%20Learn.ipynb)
-[Supervised Learning - Linear Regression](notebooks/Supervised%20Learning%20-%20%20Linear%20Regression.ipynb)   *Submission required*
+[Introduction to Machine Learning with SciKit Learn.ipynb](notebooks/Introduction%20to%20Machine%20Learning%20with%20SciKit%20Learn.ipynb)   
+[Supervised Learning - Linear Regression](notebooks/Supervised%20Learning%20-%20%20Linear%20Regression.ipynb)   *Submission required*   
 [Supervised Learning - Logistic Regression](notebooks/Supervised%20Learning%20-%20Logistic%20Regression.ipynb)  *Submission required*   
 [Generalized Linear Models](notebooks/Generalized%20Linear%20Models%20and%20Regularization.ipynb) *Optional*   
 
