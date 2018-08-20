@@ -63,7 +63,8 @@ Mining of Massive Datasets. Anand Rajaraman and Jeffrey David Ullman. http://inf
 - [Python Programming](https://github.com/jayurbain/DataScienceIntro/blob/master/labs/lab_0_python/lab_0_python.ipynb)  *Submission required*
 
 #### Optional tutorial notebooks:   
-- [Dates and Time](https://github.com/jayurbain/DataScienceIntro/blob/master/notebooks/2&#32;-&#32;Dates&#32;and&#32;Time.ipynb>)  
+
+- [Dates and Time](https://github.com/jayurbain/DataScienceIntro/blob/master/notebooks/2&#32;-&#32;Dates&#32;and&#32;TIme.ipynb)  
 - [Python Objects, Map, Lambda, and List Comprehensions](<notebooks/3&#32;-&#32;Python&#32;Objects&#32;Map&#32;Lambda&#32;List&#32;Comprehensions.ipynb>)
 - [Python Numpy](https://github.com/jayurbain/DataScienceIntro/blob/master/notebooks/4&#32;-&#32;Python&#32;Numpy.ipynb) *Submission required*   
 - [Python Numpy Aggregates](https://github.com/jayurbain/DataScienceIntro/blob/master/notebooks/5&#32;-&#32;Python&#32;Numpy&#32;Aggregates.ipynb)
@@ -82,7 +83,7 @@ Outcomes addressed in week 1:
 #### Lecture:   
 
 1. [Gradient Descent](slides/LogisticRegressionML_Jay.pdf)   
-- [http://jayurbain.com/msoe/cs498-machinelearning/Normal%20Equation%20derivation%20for%20linear%20regression.pdf](http://jayurbain.com/msoe/cs498-machinelearning/Normal%20Equation%20derivation%20for%20linear%20regression.pdf)   
+- [Normal Equation Derivation](http://jayurbain.com/msoe/cs498-machinelearning/Normal%20Equation%20derivation%20for%20linear%20regression.pdf)   
 
 2. [Logistic Regression](notebooks/5&#32;-&#32;Python&#32;Numpy&#32;Aggregates.ipynb)    
 
@@ -110,8 +111,8 @@ Outcomes addressed in week 2:
 #### Lab Notebooks:
 [Introduction to Machine Learning with SciKit Learn.ipynb](notebooks/Introduction%20to%20Machine%20Learning%20with%20SciKit%20Learn.ipynb)
 [Supervised Learning - Linear Regression](notebooks/Supervised%20Learning%20-%20%20Linear%20Regression.ipynb)   *Submission required*
-[Supervised Learning - Logistic Regression](notebooks/Supervised%20Learning%20-%20Logistic%20Regression.ipynb)  *Submission required*
-[Generalized Linear Models](notebooks/Generalized%20Linear%20Models%20and%20Regularization.ipynb)
+[Supervised Learning - Logistic Regression](notebooks/Supervised%20Learning%20-%20Logistic%20Regression.ipynb)  *Submission required*   
+[Generalized Linear Models](notebooks/Generalized%20Linear%20Models%20and%20Regularization.ipynb) *Optional*   
 
 Outcomes addressed in week 3:    
 - Understand the concepts of learning theory, i.e., what is learnable, bias, variance, overfitting.  
@@ -124,7 +125,7 @@ Outcomes addressed in week 3:
 
 #### Lecture:
 
-1. [Validation, Bagging, Boosting, Random Forests](slides/09_validation_boostrap_boosting.pdf)
+1. [Validation, Bagging, Boosting, Random Forests](slides/validation_boostrap_boosting.pdf)
 
 2. [Naive Bayes Slides 87-102](slides/dm08ClassBasic.pdf)
 
@@ -135,7 +136,7 @@ Outcomes addressed in week 3:
 
 - [Decision Trees with Scikit Learn](notebooks/Decision%20Trees.ipynb) *Submission required*   
 - [Random Forests and Boosting](labs/Lab9_DT_RF_Boosting/RF_and_Boosting.ipynb)  
-- XGBoost?  
+- XGBoost  
 
 Outcomes addressed in week 4:   
 - Understand the concepts of learning theory, i.e., what is learnable, bias, variance, overfitting.  
@@ -153,7 +154,7 @@ Outcomes addressed in week 4:
 2. [Hierarchical Agglomerative and Probabilistic Clustering](slides/dm10ClusBasic.pdf)  
 
 #### Lab Notebooks:   
-- [Supervised Learning - Logistic Regression](notebooks/Clustering.ipynb)  *Submission required*      
+- [Clustering](notebooks/Clustering.ipynb)  *Submission required*      
 
 Outcomes addressed in week 5:   
 - Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.  
@@ -166,11 +167,9 @@ Outcomes addressed in week 5:
 #### Week 6: Midterm, Dimensionality Reduction
 
 #### Lecture:
-1. [Dimensionality Reduction](slides/09_imensionality_reduction.pdf)  
+1. [Dimensionality Reduction](DimensionalityReduction.pdf)  
 
-2. [Midterm exam](http://jayurbain.com/msoe/cs498-machinelearning/Machine%20Learning%20Midterm%20Exam%20Review.pdf)  
-
-#### Lab Notebooks:     
+2. [Midterm exam](http://jayurbain.com/msoe/cs498-machinelearning/Machine%20Learning%20Midterm%20Exam%20Review.pdf)   
 
 #### Lab Notebooks:   
 - [SVD](notebooks/Lab6_Classification_PCA/Singular&#32;Value&#32;Decomposition.ipynb)  *Submission required*   
@@ -186,14 +185,14 @@ Outcomes addressed in week 6:
 #### Week 7: Introduction to Neural Networks and Deep Learning  
 
 #### Lecture:
-1. [Introduction to Deep Learning](https://github.com/jayurbain/DeepNLPIntro/blob/master/slides/1%20Deep%20Learning%20Introduction.pdf)
+1. [Introduction to Deep Learning](slides/Deep&#32;Learning&#32;Introduction.pdf)
 
 2. Hands-on: [Introduction to TensorFlow](https://github.com/jayurbain/TensorFlowIntro) *Submission required*    
 
 3. [Neural Networks - Representation and Learning](slides/neuralnetwork.pdf)  
 
 #### Lab Notebooks:   
-- [Neural Network Principles](notebooks/NeuralNetworkIntro-Student.ipynb) *Submission required*   
+- [Neural Network Fundamentals](notebooks/NeuralNetworkIntro-Student.ipynb) *Submission required*   
 
 Outcomes addressed in week 8:
 - Understand the concepts of learning theory, i.e., what is learnable, bias, variance, overfitting.  
@@ -205,12 +204,12 @@ Outcomes addressed in week 8:
 
 #### Lecture:
 
-1. [Clustering - K-Means](slides/12_clustering.pdf)  
+1. [Deep Learning for Computer Vision]()  
 
-2. [Clustering - Hierarchical, Probabilistic](slides/12_clustering.pdf)  
+2. [Convolutional Neural Networks]()  
 
 #### Lab Notebooks:   
-[K-Means Clustering](labs/Lab8_Clustering/K-Means.ipynb) *Submission required*   
+[Image Classification]() *Submission required*   
 
 [Introduce Data Science Project]()  
 
