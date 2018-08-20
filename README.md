@@ -4,7 +4,7 @@
 
 This course provides an introduction to machine learning. Machine learning explores the study and construction of algorithms that can learn from and make predictions on data. Such algorithms operate by building a model from example inputs in order to make data-driven predictions or decisions, rather than following strictly static program instructions.
 
-Topic categories include supervised, unsupervised, and reinforcement learning. Students will learn how to apply machine learning methods to solve problems in computer vision, natural language processing, classification, and prediction. Fundamental and current state-of-the-art methods including boosting and deep learning will be covered. Students will reinforce their learning of machine learning algorithms with hands-on tutorial oriented laboratory exercises for development of representative applications. Lectures are augmented with hands-on tutorials using Jupyter Notebooks. Laboratory assignments will be completed using Python and related data science packages: NumPy, Pandas, ScipPy, StatsModels, Scikit-learn, Matplotlib, TensorFlow, Keras, PyTorch.
+Topic categories include supervised, unsupervised, and reinforcement learning. Students will learn how to apply machine learning methods to solve problems in computer vision, natural language processing, classification, and prediction. Fundamental and current state-of-the-art methods including boosting and deep learning will be covered. Students will reinforce their learning of machine learning algorithms with hands-on tutorial oriented laboratory exercises using Jupyter Notebooks.
 
 Prerequisites: MA-262 Probability and Statistics; programming maturity, and the ability to program in Python.  
 
@@ -14,8 +14,7 @@ ABET: Math/Science, Engineering Topics.
 
 2-2-3 (class hours/week, laboratory hours/week, credits)
 
-
-2 hours of weekly lectures and 2-hour labs are provided each week. Lectures are augmented with hands-on tutorials using Jupyter Notebooks. Laboratory assignments will be completed using Python and related data science packages: NumPy, Pandas, ScipPy, StatsModels, Scikit-learn, Matplotlib, TensorFlow, Keras, PyTorch.
+Lectures are augmented with hands-on tutorials using Jupyter Notebooks. Laboratory assignments will be completed using Python and related data science packages: NumPy, Pandas, ScipPy, StatsModels, Scikit-learn, Matplotlib, TensorFlow, Keras, PyTorch.
 
 Prerequisites: MA-262 Probability and Statistics; programming maturity, and the ability to program in Python.  
 
@@ -24,16 +23,14 @@ Helpful: CS3851 Algorithms, MA-383 Linear Algebra, Data Science.
 ABET: Math/Science, Engineering Topics.
 
 Outcomes:   
-- Understand the basic types of of machine learning:    
-- Understand the concepts of learning theory, i.e., what is learnable, bias, variance, overfitting.
-- Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.
-- Understand the application of learned models to problems in classification, prediction, clustering, time-series, computer vision, and NLP.
-- The ability to identify, load, and prepare a data set for a given problem.  
+- Understand the basic process of machine learning:    
+- Understand the concepts of learning theory, i.e., what is learnable, bias, variance, overfitting.  
+- Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.  
 - The ability to analyze a data set including the ability to understand which data attributes (dimensions) affect the outcome.  
+- Understand the application of learned models to problems in classification, prediction, clustering, computer vision, and NLP.  
+- Understand deep learning concepts including representation learning.      
 - The ability to assess the quality of predictions and inferences.  
 - The ability to apply methods to real world data sets.  
-
-Tools: Python and related packages for data analysis, machine learning, and visualization. Jupyter Notebooks.  
 
 References:  
 
@@ -61,9 +58,9 @@ Mining of Massive Datasets. Anand Rajaraman and Jeffrey David Ullman. http://inf
 2. [Linear Regression](slides/LinearRegressionML_Jay.pdf)  
 
 #### Lab Notebooks:
-- [Jupyter Notebooks](labs/lab_0_python/lab_0_jupyter.ipynb)
-- [Python Machine Learning Environment](labs/lab_0_python/python_programming_style.ipynb)
-- [Python Programming](labs/lab_0_python/lab_0_python.ipynb)  *Submission required*
+- [Jupyter Notebooks](https://github.com/jayurbain/DataScienceIntro/blob/master/labs/lab_0_python/lab_0_jupyter.ipynb)
+- [Python Machine Learning Environment](https://github.com/jayurbain/DataScienceIntro/blob/master/labs/lab_0_python/python_programming_style.ipynb)
+- [Python Programming](https://github.com/jayurbain/DataScienceIntro/blob/master/labs/lab_0_python/lab_0_python.ipynb)  *Submission required*
 
 #### Optional tutorial notebooks:   
 - [Dates and Time](https://github.com/jayurbain/DataScienceIntro/blob/master/notebooks/2&#32;-&#32;Dates&#32;and&#32;Time.ipynb>)  
@@ -75,8 +72,8 @@ Mining of Massive Datasets. Anand Rajaraman and Jeffrey David Ullman. http://inf
 - [Data Visualization](https://github.com/jayurbain/DataScienceIntro/blob/master/notebooks/8&#32;-&#32;Data&#32;Visualization.ipynb)  
 
 Outcomes addressed in week 1:   
-- Understand the process of machine learning
-- Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.
+- Understand the basic process of machine learning:    
+- Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.  
 
 ---
 
@@ -97,7 +94,7 @@ Outcomes addressed in week 1:
 
 Outcomes addressed in week 2:   
 - Understand the concepts of learning theory, i.e., what is learnable, bias, variance, overfitting.
-- Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.  
+- Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.   
 
 ---
 
@@ -116,17 +113,12 @@ Outcomes addressed in week 2:
 [Supervised Learning - Logistic Regression](notebooks/Supervised%20Learning%20-%20Logistic%20Regression.ipynb)  *Submission required*
 [Generalized Linear Models](notebooks/Generalized%20Linear%20Models%20and%20Regularization.ipynb)
 
-Outcomes addressed in week 3:   
+Outcomes addressed in week 3:    
+- Understand the concepts of learning theory, i.e., what is learnable, bias, variance, overfitting.  
 - Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.  
-- Understand the application of learned models to problems in classification, prediction, clustering, time-series, computer vision, and NLP.
+- The ability to analyze a data set including the ability to understand which data attributes (dimensions) affect the outcome.  
 
 ---
-
-#### Week 10:  Deep Learning for NLP
-
-
-#### Lab Notebooks:  
-
 
 #### Week 4: Probabilistic Models
 
@@ -146,11 +138,10 @@ Outcomes addressed in week 3:
 - XGBoost?  
 
 Outcomes addressed in week 4:   
+- Understand the concepts of learning theory, i.e., what is learnable, bias, variance, overfitting.  
+- Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.  
 - The ability to analyze a data set including the ability to understand which data attributes (dimensions) affect the outcome.  
-- The ability to perform basic data analysis and statistical inference.  
-- The ability to perform supervised learning of prediction models.
-- The ability to perform data visualization and report generation.   
-- The ability to apply methods to real world data sets.
+- Understand the application of learned models to problems in classification, prediction, clustering, computer vision, and NLP.  
 
 ---
 
@@ -165,8 +156,10 @@ Outcomes addressed in week 4:
 - [Supervised Learning - Logistic Regression](notebooks/Clustering.ipynb)  *Submission required*      
 
 Outcomes addressed in week 5:   
-- Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.
-- Understand the application of learned models to problems in classification, prediction, clustering, time-series, computer vision, and NLP.
+- Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.  
+- The ability to analyze a data set including the ability to understand which data attributes (dimensions) affect the outcome.  
+- Understand the application of learned models to problems in classification, prediction, clustering, computer vision, and NLP.  
+- Understand deep learning concepts including representation learning.       
 
 ---
 
@@ -184,6 +177,9 @@ Outcomes addressed in week 5:
 - [PCA](notebooks/Lab6_Classification_PCA/classification-and-pca-lab.ipynb)   *Submission required*  
 
 Outcomes addressed in week 6:
+- Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.  
+- The ability to analyze a data set including the ability to understand which data attributes (dimensions) affect the outcome.  
+- Understand deep learning concepts including representation learning.      
 
 ---
 
@@ -200,6 +196,10 @@ Outcomes addressed in week 6:
 - [Neural Network Principles](notebooks/NeuralNetworkIntro-Student.ipynb) *Submission required*   
 
 Outcomes addressed in week 8:
+- Understand the concepts of learning theory, i.e., what is learnable, bias, variance, overfitting.  
+- Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.   
+- Understand the application of learned models to problems in classification, prediction, clustering, computer vision, and NLP.  
+- Understand deep learning concepts including representation learning.       
 
 #### Week 8: Deep Learning for Computer Vision
 
@@ -215,6 +215,10 @@ Outcomes addressed in week 8:
 [Introduce Data Science Project]()  
 
 Outcomes addressed in week 9:
+- Understand the concepts of learning theory, i.e., what is learnable, bias, variance, overfitting.  
+- Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.   
+- Understand the application of learned models to problems in classification, prediction, clustering, computer vision, and NLP.  
+- Understand deep learning concepts including representation learning.    
 
 ---
 
@@ -231,15 +235,17 @@ Outcomes addressed in week 9:
 - [NLP Translation ](labs/Lab6_Classification_PCA/classification-and-pca-lab.ipynb)   
 
 Outcomes addressed in week 9:   
-- The ability to perform unsupervised learning.  
-- The ability to perform data visualization and report generation.   
+- Understand the concepts of learning theory, i.e., what is learnable, bias, variance, overfitting.  
+- Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.   
+- Understand the application of learned models to problems in classification, prediction, clustering, computer vision, and NLP.  
+- Understand deep learning concepts including representation learning.     
 
 ---
 
 #### Week 10:  Generative Deep Learning
 
 #### Lecture:
-1. [Validation, Bagging, Boosting, Random Forests](slides/09_validation_boostrap_boosting.pdf)  
+1. [Auto-encoder, Variational Auto-encoder, GANs]()  
 
 2. Review   
 
@@ -247,5 +253,8 @@ Outcomes addressed in week 9:
 Complete assignments   
 
 Outcomes addressed in week 10:
-
+- Understand the concepts of learning theory, i.e., what is learnable, bias, variance, overfitting.  
+- Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.   
+- Understand the application of learned models to problems in classification, prediction, clustering, computer vision, and NLP.  
+- Understand deep learning concepts including representation learning.    
 ---
