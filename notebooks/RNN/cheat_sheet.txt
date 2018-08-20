@@ -1,0 +1,215 @@
+jays-mbp-2:AWS_key_pairs jayurbain$ ssh -i kp_gpu_06252017.pem ec2-user@54.202.241.55
+
+cd /home/ec2-user/rnn_lstm_text_generation
+
+python lstm_text_small.py wonderland.txt small_x1
+python lstm_text_generate_small.py wonderland.txt small_x1_weights-improvement-19-1.9934.hdf5
+
+[ec2-user@ip-172-31-37-12 rnn_lstm_text_generation]$ python lstm_text_generate_small.py wonderland.txt small_x1_weights-improvement-19-1.9934.hdf5
+Using TensorFlow backend.
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcudnn.so.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.7.5 locally
+('inputfile: ', 'wonderland.txt', 'weightsfile: ', 'small_x1_weights-improvement-19-1.9934.hdf5')
+('Total Characters: ', 144431)
+('Total Vocab: ', 45)
+('Total Patterns: ', 144331)
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:910] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
+name: GRID K520
+major: 3 minor: 0 memoryClockRate (GHz) 0.797
+pciBusID 0000:00:03.0
+Total memory: 3.94GiB
+Free memory: 3.91GiB
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+Seed:
+('"', "ish it was,' the march hare said to itself in a whisper.)\n\n'that would be grand, certainly,' said al", '"')
+ice, 
+'ne course ' said the katter, 
+'ne course the mors ' she gatter vent on, 'in toe ti teek to seye toe cinte to tey.'
+
+'i sooutd the mors wiing ' said the katter, 
+'ne course the mors ' she gatter vent on, 'in toe ti teek to seye toe cinte to tey.'
+
+'i sooutd the mors wiing ' said the katter, 
+'ne course the mors ' she gatter vent on, 'in toe ti teek to seye toe cinte to tey.'
+
+'i sooutd the mors wiing ' said the katter, 
+'ne course the mors ' she gatter vent on, 'in toe ti teek to seye toe cinte to tey.'
+
+'i sooutd the mors wiing ' said the katter, 
+'ne course the mors ' she gatter vent on, 'in toe ti teek to seye toe cinte to tey.'
+
+'i sooutd the mors wiing ' said the katter, 
+'ne course the mors ' she gatter vent on, 'in toe ti teek to seye toe cinte to tey.'
+
+'i sooutd the mors wiing ' said the katter, 
+'ne course the mors ' she gatter vent on, 'in toe ti teek to seye toe cinte to tey.'
+
+'i sooutd the mors wiing ' said the katter, 
+'ne course the mors ' she gatter vent on, 'in 
+Done.
+
+
+python lstm_text_large.py wonderland.txt large_x1
+python lstm_text_generate_large.py wonderland.txt large_x1_weights-improvement-19-1.5228.hdf5
+
+
+[ec2-user@ip-172-31-37-12 rnn_lstm_text_generation]$ python lstm_text_generate_large.py wonderland.txt large_x1_weights-improvement-19-1.5228.hdf5
+Using TensorFlow backend.
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcudnn.so.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcufft.so.7.5 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcurand.so.7.5 locally
+('inputfile: ', 'wonderland.txt', 'weightsfile: ', 'large_x1_weights-improvement-19-1.5228.hdf5')
+('Total Characters: ', 144431)
+('Total Vocab: ', 45)
+('Total Patterns: ', 144331)
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:910] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
+name: GRID K520
+major: 3 minor: 0 memoryClockRate (GHz) 0.797
+pciBusID 0000:00:03.0
+Total memory: 3.94GiB
+Free memory: 3.91GiB
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+Seed:
+('"', "in talking to him,' said alice desperately: 'he's\nperfectly idiotic!' and she opened the door and we", '"')
+nt on and she way of the table, 'what is the way that it sat the sable out of the soot,' 
+'it she was a good dear ' she march hare said to the gryphon. 
+'i'm a poor mant was the soop,' said the king. 
+'what a cood that core,' said the king. 
+'what a cood that core,' said the king. 
+'what a cood that core,' said the king. 
+'what a cood that core,' said the king. 
+'what a cood that core,' said the king. 
+'what a cood that core,' said the king. 
+'what a cood that core,' said the king. 
+'what a cood that core,' said the king. 
+'what a cood that core,' said the king. 
+'what a cood that core,' said the king. 
+'what a cood that core,' said the king. 
+'what a cood that core,' said the king. 
+'what a cood that core,' said the king. 
+'what a cood that core,' said the king. 
+'what a cood that core,' said the king. 
+'what a cood that core,' said the king. 
+'what a cood that core,' said the king. 
+'what a cood that core,' said the king. 
+'what a cood that core,' said the king. 
+'what a cood that co
+Done.
+
+
+
+// save best models
+scp -i ~/Dropbox/AWS_key_pairs/kp_gpu_06252017.pem ec2-user@54.202.241.55:/home/ec2-user/rnn_lstm_text_generation/small_x1_weights-improvement-19-1.9934.hdf5 .
+
+scp -i ~/Dropbox/AWS_key_pairs/kp_gpu_06252017.pem ec2-user@54.202.241.55:/home/ec2-user/rnn_lstm_text_generation/large_x1_weights-improvement-19-1.5228.hdf5 .
+
+
+
+
+
+
+//////////
+
+Setup on AWS:
+http://machinelearningmastery.com/develop-evaluate-large-deep-learning-models-keras-amazon-web-services/
+
+US West Orgeon
+ami-dfb13ebf
+g2.2xlarge
+Key pair name: kp_gpu_06252017
+chmod 600 keras-aws-keypair.pem
+
+Instance ID
+i-0cbef98f36502484a
+Public DNS (IPv4)
+ec2-54-202-241-55.us-west-2.compute.amazonaws.com
+Instance state
+running
+IPv4 Public IP
+54.202.241.55
+Instance type
+g2.2xlarge
+IPv6 IPs
+-
+Elastic IPs
+Private DNS
+ip-172-31-37-12.us-west-2.compute.internal
+Availability zone
+us-west-2a
+Private IPs
+172.31.37.12
+Security groups
+launch-wizard-1. view inbound rules
+Secondary private IPs
+Scheduled events
+No scheduled events
+VPC ID
+vpc-9500e5f3
+AMI ID
+Deep Learning AMI AmazonLinux - 2.0 (ami-dfb13ebf)
+Subnet ID
+subnet-26a6ef6f
+Platform
+-
+Network interfaces
+eth0
+IAM role
+-
+Source/dest. check
+True
+Key pair name
+kp_gpu_06252017
+Owner
+632152448932
+EBS-optimized
+False
+Launch time
+June 25, 2017 at 2:18:40 PM UTC-5 (less than one hour)
+Root device type
+ebs
+Termination protection
+False
+Root device
+/dev/xvda
+Lifecycle
+normal
+Block devices
+/dev/xvda
+Monitoring
+basic
+Alarm status
+None
+Kernel ID
+-
+RAM disk ID
+-
+Placement group
+-
+Virtualization
+hvm
+Reservation
+r-01b35f5661ba98c88
+AMI launch index
+0
+Tenancy
+default
+
