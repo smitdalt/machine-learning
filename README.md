@@ -225,13 +225,13 @@ Outcomes addressed in week 9:
 
 #### Lecture:
 
-2. [NLP Classification](https://github.com/jayurbain/DeepNLPIntro/blob/master/slides/2%20NLP%20Text%20Classification.pdf)
+2. [NLP Classification](https://github.com/jayurbain/DeepNLPIntro/blob/master/slides/2&#32;NLP%20Text&#32;Classification.pdf)
 
-2. [NLP Translation](https://github.com/jayurbain/DeepNLPIntro/blob/master/slides/3%20NLP%20Text%20Translations.pdf)
+2. [NLP Translation](https://github.com/jayurbain/DeepNLPIntro/blob/master/slides/3&#32;NLP&#32;Text&#32;Translations.pdf)
 
 #### Lab Notebooks:     
-- [NLP Classification](https://github.com/jayurbain/DeepNLPIntro)   
-- [NLP Translation ](labs/Lab6_Classification_PCA/classification-and-pca-lab.ipynb)   
+- [NLP Classification](https://github.com/jayurbain/DeepNLPIntro/tree/master/Text&#32;Classification)   
+- [NLP Translation ](https://github.com/jayurbain/DeepNLPIntro/tree/master/Text&#32;Translation)   
 
 Outcomes addressed in week 9:   
 - Understand the concepts of learning theory, i.e., what is learnable, bias, variance, overfitting.  
