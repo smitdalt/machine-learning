@@ -135,7 +135,7 @@ Outcomes addressed in week 3:
 #### Lab Notebooks:  
 
 - [Decision Trees with Scikit Learn](notebooks/Decision%20Trees.ipynb) *Submission required*   
-- [Random Forests and Boosting](labs/Lab9_DT_RF_Boosting/RF_and_Boosting.ipynb)  
+- [Random Forests and Boosting](notebooks/Lab9_DT_RF_Boosting/RF_and_Boosting.ipynb)  
 - XGBoost  
 
 Outcomes addressed in week 4:   
