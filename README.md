@@ -167,7 +167,7 @@ Outcomes addressed in week 5:
 #### Week 6: Midterm, Dimensionality Reduction
 
 #### Lecture:
-1. [Dimensionality Reduction](DimensionalityReduction.pdf)  
+1. [Dimensionality Reduction](slides/DimensionalityReduction.pdf)  
 
 2. [Midterm exam](http://jayurbain.com/msoe/cs498-machinelearning/Machine%20Learning%20Midterm%20Exam%20Review.pdf)   
 
@@ -210,8 +210,6 @@ Outcomes addressed in week 8:
 
 #### Lab Notebooks:   
 [Image Classification]() *Submission required*   
-
-[Introduce Data Science Project]()  
 
 Outcomes addressed in week 9:
 - Understand the concepts of learning theory, i.e., what is learnable, bias, variance, overfitting.  
