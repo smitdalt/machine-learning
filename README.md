@@ -28,7 +28,7 @@ Outcomes:
 - Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.  
 - The ability to analyze a data set including the ability to understand which data attributes (dimensions) affect the outcome.  
 - Understand the application of learned models to problems in classification, prediction, clustering, computer vision, and NLP.  
-- Understand deep learning concepts including representation learning.      
+- Understand deep learning concepts and architectures including representation learning Multi-layer Perceptrons, Convolutional Neural Networks, Recurrent Neural Networks, and Attention Mechanisms.    
 - The ability to assess the quality of predictions and inferences.  
 - The ability to apply methods to real world data sets.  
 
@@ -160,7 +160,6 @@ Outcomes addressed in week 5:
 - Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.  
 - The ability to analyze a data set including the ability to understand which data attributes (dimensions) affect the outcome.  
 - Understand the application of learned models to problems in classification, prediction, clustering, computer vision, and NLP.  
-- Understand deep learning concepts including representation learning.       
 
 ---
 
@@ -178,7 +177,6 @@ Outcomes addressed in week 5:
 Outcomes addressed in week 6:
 - Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.  
 - The ability to analyze a data set including the ability to understand which data attributes (dimensions) affect the outcome.  
-- Understand deep learning concepts including representation learning.      
 
 ---
 
@@ -206,7 +204,7 @@ Outcomes addressed in week 8:
 - Understand the concepts of learning theory, i.e., what is learnable, bias, variance, overfitting.  
 - Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.   
 - Understand the application of learned models to problems in classification, prediction, clustering, computer vision, and NLP.  
-- Understand deep learning concepts including representation learning.       
+- Understand deep learning concepts and architectures including representation learning Multi-layer Perceptrons, Convolutional Neural Networks, Recurrent Neural Networks, and Attention Mechanisms.    
 
 #### Week 8: Deep Learning for Computer Vision
 
@@ -226,7 +224,7 @@ Outcomes addressed in week 9:
 - Understand the concepts of learning theory, i.e., what is learnable, bias, variance, overfitting.  
 - Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.   
 - Understand the application of learned models to problems in classification, prediction, clustering, computer vision, and NLP.  
-- Understand deep learning concepts including representation learning.    
+- Understand deep learning concepts and architectures including representation learning Multi-layer Perceptrons, Convolutional Neural Networks, Recurrent Neural Networks, and Attention Mechanisms.    
 
 ---
 
@@ -244,11 +242,14 @@ Outcomes addressed in week 9:
 - [NLP Classification](notebooks/nlp/Text&#32;Classification/SentimentClassification.ipynb)   
 - [NLP Translation ](notebooks/nlp/Text&#32;Translation/TextTranslation.ipynb)   
 
+*Note: need to prune answers from notebooks*   
+
 Outcomes addressed in week 9:   
 - Understand the concepts of learning theory, i.e., what is learnable, bias, variance, overfitting.  
 - Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.   
 - Understand the application of learned models to problems in classification, prediction, clustering, computer vision, and NLP.  
-- Understand deep learning concepts including representation learning.     
+- Understand deep learning concepts and architectures including representation learning Multi-layer Perceptrons, Convolutional Neural Networks, Recurrent Neural Networks, and Attention Mechanisms.    
+
 
 ---
 
