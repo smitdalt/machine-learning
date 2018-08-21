@@ -23,7 +23,7 @@ Helpful: CS3851 Algorithms, MA-383 Linear Algebra, Data Science.
 ABET: Math/Science, Engineering Topics.
 
 Outcomes:   
-- Understand the basic process of machine learning:    
+- Understand the basic process of machine learning.    
 - Understand the concepts of learning theory, i.e., what is learnable, bias, variance, overfitting.  
 - Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.  
 - The ability to analyze a data set including the ability to understand which data attributes (dimensions) affect the outcome.  
@@ -185,14 +185,23 @@ Outcomes addressed in week 6:
 #### Week 7: Introduction to Neural Networks and Deep Learning  
 
 #### Lecture:
-1. [Introduction to Deep Learning](slides/Deep&#32;Learning&#32;Introduction.pdf)
+1. [Deep Learning Introduction](slides/dli/Lecture-2-1-dl-intro-urbain.pdf)
 
-2. Hands-on: [Introduction to TensorFlow](https://github.com/jayurbain/TensorFlowIntro) *Submission required*    
+2. [Neural Networks Introduction](slides/Deep&#32;Learning&#32;Introduction.pdf)
 
 3. [Neural Networks - Representation and Learning](slides/neuralnetwork.pdf)  
 
-#### Lab Notebooks:   
+4. [Backpropagation](slides/dli/Lecture-2-3-dl-backprop2-urbain.pdf)   
+
+#### Lab Notebooks:  
+*Option 1*   
+- [Introduction to TensorFlow](notebooks/deep_learning_intro/Tensorflow-task.ipynb) *Submission required*   
+- [Neural Network Fundamentals](notebooks/deep_learning_intro/my1stNN.ipynb) *Submission required*   
+*Option 2*   
+- [Introduction to TensorFlow](https://github.com/jayurbain/TensorFlowIntro) *Submission required*   
 - [Neural Network Fundamentals](notebooks/NeuralNetworkIntro-Student.ipynb) *Submission required*   
+
+*Note: need to prune answers from notebooks*   
 
 Outcomes addressed in week 8:
 - Understand the concepts of learning theory, i.e., what is learnable, bias, variance, overfitting.  
@@ -204,12 +213,15 @@ Outcomes addressed in week 8:
 
 #### Lecture:
 
-1. [Deep Learning for Computer Vision]()  
+1. [Deep Learning for Computer Vision](slides/Lecture-3-1-convnets-history-urbain.pdf)  
 
-2. [Convolutional Neural Networks]()  
+2. [Deep Learning for Computer Vision](slides/Lecture-3-2-convnets-intro-urbain.pdf)  
 
 #### Lab Notebooks:   
-[Image Classification]() *Submission required*   
+[Keras Intro](notebooks/deep_learning_intro/Keras-task.ipynb) *Submission required*   
+[Image Classification](notebooks/deep_learning_intro/cnn_cifar10.ipynb) *Submission required*   
+
+*Note: need to prune answers from notebooks*   
 
 Outcomes addressed in week 9:
 - Understand the concepts of learning theory, i.e., what is learnable, bias, variance, overfitting.  
@@ -223,13 +235,15 @@ Outcomes addressed in week 9:
 
 #### Lecture:
 
-2. [NLP Classification](https://github.com/jayurbain/DeepNLPIntro/blob/master/slides/2&#32;NLP%20Text&#32;Classification.pdf)
+1. [NLP Classification](slides/2&#32;NLP%20Text&#32;Classification.pdf)  
 
-2. [NLP Translation](https://github.com/jayurbain/DeepNLPIntro/blob/master/slides/3&#32;NLP&#32;Text&#32;Translations.pdf)
+2. *Optional* [Convnets for Structured Prediction](slides/dli/Lecture-3-3-convnets-struc-pred-nlp-urbain.pdf)  
+
+3. [NLP Translation](slides/3&#32;NLP&#32;Text&#32;Translations.pdf)  
 
 #### Lab Notebooks:     
-- [NLP Classification](https://github.com/jayurbain/DeepNLPIntro/tree/master/Text&#32;Classification)   
-- [NLP Translation ](https://github.com/jayurbain/DeepNLPIntro/tree/master/Text&#32;Translation)   
+- [NLP Classification](notebooks/nlp/Text&#32;Classification)   
+- [NLP Translation ](notebooks/nlp/Text&#32;Translation)   
 
 Outcomes addressed in week 9:   
 - Understand the concepts of learning theory, i.e., what is learnable, bias, variance, overfitting.  
@@ -242,9 +256,9 @@ Outcomes addressed in week 9:
 #### Week 10:  Generative Deep Learning
 
 #### Lecture:
-1. [Auto-encoder, Variational Auto-encoder, GANs]()  
+1. [Future Challenges](slides/dli/Lecture-7-1-future-challenges-urbain.pdf)
 
-2. Review   
+2. [Auto-encoder, Variational Auto-encoder, GANs]()  *TBD: probably too advanced*    
 
 #### Lab Notebooks:  
 Complete assignments   
