@@ -172,8 +172,8 @@ Outcomes addressed in week 5:
 2. [Midterm exam](http://jayurbain.com/msoe/cs498-machinelearning/Machine%20Learning%20Midterm%20Exam%20Review.pdf)   
 
 #### Lab Notebooks:   
-- [SVD](notebooks/Lab6_Classification_PCA/Singular&#32;Value&#32;Decomposition.ipynb)  *Submission required*   
-- [PCA](notebooks/Lab6_Classification_PCA/classification-and-pca-lab.ipynb)   *Submission required*  
+- [SVD](notebooks/Lab6_Classification_PCA/Singular&#32;Value&#32;Decomposition.ipynb)  *Hands-on only*   
+- [PCA](notebooks/Lab6_Classification_PCA/classification-and-pca-lab.ipynb)   *Hands-on only*  
 
 Outcomes addressed in week 6:
 - Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.  
@@ -186,13 +186,11 @@ Outcomes addressed in week 6:
 
 #### Lecture:
 
-2. [Deep Learning Introduction](slides/dli/Lecture-2-1-dl-intro-urbain.pdf)
+1. [Deep Learning Introduction 1](slides/Deep&#32;Learning&#32;Introduction.pdf)
 
-3. [Neural Networks Introduction](slides/Deep&#32;Learning&#32;Introduction.pdf)
+2. [Deep Learning Introduction 2](slides/dli/Lecture-2-1-dl-intro-urbain.pdf)
 
-4. [Neural Networks - Representation and Learning](slides/neuralnetwork.pdf)  
-
-5. [Backpropagation](slides/dli/Lecture-2-3-dl-backprop2-urbain.pdf)   
+3. [Backpropagation](slides/dli/Lecture-2-3-dl-backprop2-urbain.pdf)   
 
 #### Lab Notebooks:  
 *Option 1*   
@@ -214,9 +212,9 @@ Outcomes addressed in week 8:
 
 #### Lecture:
 
-1. [Deep Learning for Computer Vision](slides/Lecture-3-1-convnets-history-urbain.pdf)  
+1. [Deep Learning for Computer Vision](slides/dli/Lecture-3-1-convnets-history-urbain.pdf)  
 
-2. [Deep Learning for Computer Vision](slides/Lecture-3-2-convnets-intro-urbain.pdf)  
+2. [Convnets](slides/dli/Lecture-3-2-convnets-intro-urbain.pdf)  
 
 #### Lab Notebooks:   
 [Keras Intro](notebooks/deep_learning_intro/Keras-task.ipynb) *Submission required*   
