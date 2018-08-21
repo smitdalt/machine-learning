@@ -185,13 +185,14 @@ Outcomes addressed in week 6:
 #### Week 7: Introduction to Neural Networks and Deep Learning  
 
 #### Lecture:
-1. [Deep Learning Introduction](slides/dli/Lecture-2-1-dl-intro-urbain.pdf)
 
-2. [Neural Networks Introduction](slides/Deep&#32;Learning&#32;Introduction.pdf)
+2. [Deep Learning Introduction](slides/dli/Lecture-2-1-dl-intro-urbain.pdf)
 
-3. [Neural Networks - Representation and Learning](slides/neuralnetwork.pdf)  
+3. [Neural Networks Introduction](slides/Deep&#32;Learning&#32;Introduction.pdf)
 
-4. [Backpropagation](slides/dli/Lecture-2-3-dl-backprop2-urbain.pdf)   
+4. [Neural Networks - Representation and Learning](slides/neuralnetwork.pdf)  
+
+5. [Backpropagation](slides/dli/Lecture-2-3-dl-backprop2-urbain.pdf)   
 
 #### Lab Notebooks:  
 *Option 1*   
@@ -219,7 +220,7 @@ Outcomes addressed in week 8:
 
 #### Lab Notebooks:   
 [Keras Intro](notebooks/deep_learning_intro/Keras-task.ipynb) *Submission required*   
-[Image Classification](notebooks/deep_learning_intro/cnn_cifar10.ipynb) *Submission required*   
+[Image Classification](notebooks/computer_vision/cnn_cifar10.ipynb) *Submission required*   
 
 *Note: need to prune answers from notebooks*   
 
@@ -235,15 +236,15 @@ Outcomes addressed in week 9:
 
 #### Lecture:
 
-1. [NLP Classification](slides/2&#32;NLP%20Text&#32;Classification.pdf)  
+1. [NLP Classification](slides/nlp/2&#32;NLP%20Text&#32;Classification.pdf)  
 
 2. *Optional* [Convnets for Structured Prediction](slides/dli/Lecture-3-3-convnets-struc-pred-nlp-urbain.pdf)  
 
-3. [NLP Translation](slides/3&#32;NLP&#32;Text&#32;Translations.pdf)  
+3. [NLP Translation](slides/nlp/3&#32;NLP&#32;Text&#32;Translations.pdf)  
 
 #### Lab Notebooks:     
-- [NLP Classification](notebooks/nlp/Text&#32;Classification)   
-- [NLP Translation ](notebooks/nlp/Text&#32;Translation)   
+- [NLP Classification](notebooks/nlp/Text&#32;Classification/SentimentClassification.ipynb)   
+- [NLP Translation ](notebooks/nlp/Text&#32;Translation/TextTranslation.ipynb)   
 
 Outcomes addressed in week 9:   
 - Understand the concepts of learning theory, i.e., what is learnable, bias, variance, overfitting.  
