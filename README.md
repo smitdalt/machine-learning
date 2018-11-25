@@ -52,6 +52,8 @@ Mining of Massive Datasets. Anand Rajaraman and Jeffrey David Ullman. http://inf
 ### Week 1: Intro to Machine Learning, Linear Regression
 
 #### Lecture:    
+1. [Syllabus](syllabus.pdf)
+
 1. [Introduction to Machine Learning](slides/IntroMachineLearning.pdf)   
 - Demonstrations   
 
