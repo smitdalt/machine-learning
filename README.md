@@ -35,7 +35,7 @@ Concepts, Tools, and Techniques to Build Intelligent Systems, Aurélien Géron. 
 
 [Deep Learning, Ian Goodfellow, Yoshua Bengio, and Aaron Courville. MIT Press, 2016.](https://www.deeplearningbook.org/)
 
-[An Introduction to Statistical Learning: with Applications in R](Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani. 2015 Edition, Springer.](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf)
+[An Introduction to Statistical Learning: with Applications in R Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani. 2015 Edition, Springer.](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf)
 
 [Python Data Science Handbook, Jake VanderPlas, O'Reilly.](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
