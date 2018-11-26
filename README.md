@@ -16,12 +16,6 @@ ABET: Math/Science, Engineering Topics.
 
 Lectures are augmented with hands-on tutorials using Jupyter Notebooks. Laboratory assignments will be completed using Python and related data science packages: NumPy, Pandas, ScipPy, StatsModels, Scikit-learn, Matplotlib, TensorFlow, Keras, PyTorch.
 
-Prerequisites: MA-262 Probability and Statistics; programming maturity, and the ability to program in Python.  
-
-Helpful: CS3851 Algorithms, MA-383 Linear Algebra, Data Science.  
-
-ABET: Math/Science, Engineering Topics.
-
 Outcomes:   
 - Understand the basic process of machine learning.    
 - Understand the concepts of learning theory, i.e., what is learnable, bias, variance, overfitting.  
@@ -41,7 +35,7 @@ Concepts, Tools, and Techniques to Build Intelligent Systems, Aurélien Géron. 
 
 [Deep Learning, Ian Goodfellow, Yoshua Bengio, and Aaron Courville. MIT Press, 2016.](https://www.deeplearningbook.org/)
 
-[An Introduction to Statistical Learning: with Applications in R]. Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani. 2015 Edition, Springer.](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf)
+[An Introduction to Statistical Learning: with Applications in R Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani. 2015 Edition, Springer.](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf)
 
 [Python Data Science Handbook, Jake VanderPlas, O'Reilly.](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
