@@ -34,8 +34,11 @@ Outcomes:
 
 References:  
 
-[Hands-On Machine Learning with Scikit-Learn and TensorFlow
-Concepts, Tools, and Techniques to Build Intelligent Systems, Aurélien Géron. O'Reilly Media, 2017](http://shop.oreilly.com/product/0636920052289.do)
+*[Hands-On Machine Learning with Scikit-Learn and TensorFlow
+Concepts, Tools, and Techniques to Build Intelligent Systems (MLSLT), Aurélien Géron. O'Reilly Media, 2017](http://shop.oreilly.com/product/0636920052289.do)
+
+[Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition, by Aurélien Géron, Publisher: O'Reilly Media, Inc. Release Date: June 2019
+ISBN: 9781492032649](https://www.safaribooksonline.com/library/view/hands-on-machine-learning/9781492032632/)
 
 [Deep Learning with Python, François Chollet. Manning, 2017.](https://www.manning.com/books/deep-learning-with-python)
 
@@ -56,23 +59,30 @@ Mining of Massive Datasets. Anand Rajaraman and Jeffrey David Ullman. http://inf
 
 1. [Introduction to Machine Learning](slides/IntroMachineLearning.pdf)   
 - Demonstrations   
+- Reading: MLSLT Ch. 1  
 
 2. [Linear Regression](slides/LinearRegressionML_Jay.pdf)  
 
+3. [Introduction to Git and GitHub](slides/00_git_github.pdf)
+-  Reference: [git - the simple guide](http://rogerdudler.github.io/git-guide/)   
+
 #### Lab Notebooks:
-- [Jupyter Notebooks](https://github.com/jayurbain/DataScienceIntro/blob/master/labs/lab_0_python/lab_0_jupyter.ipynb)
-- [Python Machine Learning Environment](https://github.com/jayurbain/DataScienceIntro/blob/master/labs/lab_0_python/python_programming_style.ipynb)
-- [Python Programming](https://github.com/jayurbain/DataScienceIntro/blob/master/labs/lab_0_python/lab_0_python.ipynb)  *Submission required*
+- [Using Jupyter Notebooks](notebooks/lab_0_python/lab_0_jupyter.ipynb)  
+- [Python Programming for Data Science](notebooks/lab_0_python/lab_0_python.ipynb) *Submission required*
+- [Python Numpy](notebooks/4&#32;-&#32;Python&#32;Numpy.ipynb) *Submission required*   
+*Submission required*     
+
+*Note: Initiate walkthrough of hands-on notebooks with students, let them complete submissions on their own.*  
 
 #### Optional tutorial notebooks:   
-
-- [Dates and Time](https://github.com/jayurbain/DataScienceIntro/blob/master/notebooks/2&#32;-&#32;Dates&#32;and&#32;TIme.ipynb)  
+- [Python Objects, Map, Lambda, and List Comprehensions](<notebooks/3&#32;-&#32;Python&#32;Objects&#32;Map&#32;Lambda&#32;List&#32;Comprehensions.ipynb>) 
+- [Dates and Time](notebooks/2&#32;-&#32;Dates&#32;and&#32;TIme.ipynb)  
 - [Python Objects, Map, Lambda, and List Comprehensions](<notebooks/3&#32;-&#32;Python&#32;Objects&#32;Map&#32;Lambda&#32;List&#32;Comprehensions.ipynb>)
-- [Python Numpy](https://github.com/jayurbain/DataScienceIntro/blob/master/notebooks/4&#32;-&#32;Python&#32;Numpy.ipynb) *Submission required*   
-- [Python Numpy Aggregates](https://github.com/jayurbain/DataScienceIntro/blob/master/notebooks/5&#32;-&#32;Python&#32;Numpy&#32;Aggregates.ipynb)
-- [Pandas Data Manipulation](https://github.com/jayurbain/DataScienceIntro/blob/master/notebooks/6&#32;-&#32;Pandas&#32;Data&#32;Manipulation.ipynb)   
-- [Python Reading and Writing CSV files](https://github.com/jayurbain/DataScienceIntro/blob/master/notebooks/7&#32;-&#32;Python&#32;Reading&#32;and&#32;Writing&#32;CSV&#32;files.ipynb)  
-- [Data Visualization](https://github.com/jayurbain/DataScienceIntro/blob/master/notebooks/8&#32;-&#32;Data&#32;Visualization.ipynb)  
+- [Python Numpy Aggregates](notebooks/5&#32;-&#32;Python&#32;Numpy&#32;Aggregates.ipynb)
+- [Pandas Data Manipulation](notebooks/6&#32;-&#32;Pandas&#32;Data&#32;Manipulation.ipynb)   
+- [Python Reading and Writing CSV files](notebooks/7&#32;-&#32;Python&#32;Reading&#32;and&#32;Writing&#32;CSV&#32;files.ipynb)  
+- [Data Visualization](notebooks/8&#32;-&#32;Data&#32;Visualization.ipynb)  
+- [Python Programming Style](notebooks/lab_0_python/python_programming_style.ipynb) *Optional*  
 
 Outcomes addressed in week 1:   
 - Understand the basic process of machine learning:    
