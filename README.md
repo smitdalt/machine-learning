@@ -34,7 +34,7 @@ Concepts, Tools, and Techniques to Build Intelligent Systems (MLSLT), Aurélien 
 [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition, by Aurélien Géron, Publisher: O'Reilly Media, Inc. Release Date: June 2019
 ISBN: 9781492032649](https://www.safaribooksonline.com/library/view/hands-on-machine-learning/9781492032632/)
 
-[Deep Learning with Python, François Chollet. Manning, 2017.](https://www.manning.com/books/deep-learning-with-python)
+*[Deep Learning with Python (DLP), François Chollet. Manning, 2017.](https://www.manning.com/books/deep-learning-with-python)
 
 [Deep Learning, Ian Goodfellow, Yoshua Bengio, and Aaron Courville. MIT Press, 2016.](https://www.deeplearningbook.org/)
 
@@ -42,7 +42,7 @@ ISBN: 9781492032649](https://www.safaribooksonline.com/library/view/hands-on-mac
 
 [Python Data Science Handbook, Jake VanderPlas, O'Reilly.](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
-Mining of Massive Datasets. Anand Rajaraman and Jeffrey David Ullman. http://infolab.stanford.edu/~ullman/mmds.html
+Mining of Massive Datasets. Anand Rajaraman and Jeffrey David Ullman. http://www.mmds.org/
 
 ---
 
@@ -63,20 +63,18 @@ Mining of Massive Datasets. Anand Rajaraman and Jeffrey David Ullman. http://inf
 #### Lab Notebooks:
 - [Using Jupyter Notebooks](notebooks/lab_0_python/lab_0_jupyter.ipynb)  
 - [Python Programming for Data Science](notebooks/lab_0_python/lab_0_python.ipynb) *Submission required*
-- [Python Numpy](notebooks/4&#32;-&#32;Python&#32;Numpy.ipynb) *Submission required*   
-*Submission required*     
+- [Python Numpy](notebooks/4&#32;-&#32;Python&#32;Numpy.ipynb) *Submission required*    
 
 *Note: Initiate walkthrough of hands-on notebooks with students, let them complete submissions on their own.*  
 
 #### Optional tutorial notebooks:   
 - [Python Objects, Map, Lambda, and List Comprehensions](<notebooks/3&#32;-&#32;Python&#32;Objects&#32;Map&#32;Lambda&#32;List&#32;Comprehensions.ipynb>) 
 - [Dates and Time](notebooks/2&#32;-&#32;Dates&#32;and&#32;TIme.ipynb)  
-- [Python Objects, Map, Lambda, and List Comprehensions](<notebooks/3&#32;-&#32;Python&#32;Objects&#32;Map&#32;Lambda&#32;List&#32;Comprehensions.ipynb>)
 - [Python Numpy Aggregates](notebooks/5&#32;-&#32;Python&#32;Numpy&#32;Aggregates.ipynb)
 - [Pandas Data Manipulation](notebooks/6&#32;-&#32;Pandas&#32;Data&#32;Manipulation.ipynb)   
 - [Python Reading and Writing CSV files](notebooks/7&#32;-&#32;Python&#32;Reading&#32;and&#32;Writing&#32;CSV&#32;files.ipynb)  
 - [Data Visualization](notebooks/8&#32;-&#32;Data&#32;Visualization.ipynb)  
-- [Python Programming Style](notebooks/lab_0_python/python_programming_style.ipynb) *Optional*  
+- [Python Programming Style](notebooks/lab_0_python/python_programming_style.ipynb) 
 
 Outcomes addressed in week 1:   
 - Understand the basic process of machine learning:    
