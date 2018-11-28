@@ -60,6 +60,14 @@ Mining of Massive Datasets. Anand Rajaraman and Jeffrey David Ullman. http://www
 3. [Introduction to Git and GitHub](slides/00_git_github.pdf)
 -  Reference: [git - the simple guide](http://rogerdudler.github.io/git-guide/)   
 
+4. [Machine Learning Foundations](slides/MachineLearningFoundations.pdf)  
+- [End to end machine learning](notebooks/02_end_to_end_machine_learning_project.ipynb)  
+- [Image Classification Using Deep Learning](https://github.com/jayurbain/deep-learning-foundations/blob/master/image-classification/dlnd_image_classification.ipynb)  
+- [Back Pain](https://github.com/jayurbain/BackPain/blob/master/Back%20Pain%20Data%20Analysis.ipynb)     
+- [Vehicle Detection](https://github.com/jayurbain/CarND-Vehicle-Detection)    
+
+- Reading: MLSLT Ch. 2   
+
 #### Lab Notebooks:
 - [Using Jupyter Notebooks](notebooks/lab_0_python/lab_0_jupyter.ipynb)  
 - [Python Programming for Data Science](notebooks/lab_0_python/lab_0_python.ipynb) *Submission required*
