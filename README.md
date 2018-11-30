@@ -168,7 +168,7 @@ Outcomes:
 - Reading: ISLR Ch. 8.2  
 
 #### Lecture:    
-1. [Gradient Boosting, XGBoost](slides/gradient_boosting.ipynb)  
+1. [Gradient Boosting, XGBoost](slides/gradient_boosting.pdf)  
 
 2. - Midterm Exam: 
 [Midterm review study guide]()  
