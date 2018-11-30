@@ -93,8 +93,7 @@ Outcomes addressed in week 1:
 - Reading: PDSH Ch. 5 p. 331-375, 390-399  
 - Reading: ISLR Ch. 1, 2  
 
-2. [Linear Regression Notebook](notebooks/08_linear_regression.ipynb) *Use for second lecture*  
-- [Linear Regression 2](slides/08_linear_regression.pdf)   
+2. [Linear Regression Notebook](notebooks/08_linear_regression.ipynb) *Use for second lecture*   
 - [Normal Equation Derivation](http://jayurbain.com/msoe/cs498-machinelearning/Normal%20Equation%20derivation%20for%20linear%20regression.pdf)    
 - Reading: ISLR Ch. 3  
 - Reading: PDSH Ch. 5 p. 359-375   
