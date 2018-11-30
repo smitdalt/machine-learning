@@ -36,44 +36,39 @@ ISBN: 9781492032649](https://www.safaribooksonline.com/library/view/hands-on-mac
 
 *[Deep Learning with Python (DLP), François Chollet. Manning, 2017.](https://www.manning.com/books/deep-learning-with-python)
 
-[Deep Learning, Ian Goodfellow, Yoshua Bengio, and Aaron Courville. MIT Press, 2016.](https://www.deeplearningbook.org/)
+[Deep Learning (DL), Ian Goodfellow, Yoshua Bengio, and Aaron Courville. MIT Press, 2016.](https://www.deeplearningbook.org/)
 
-[An Introduction to Statistical Learning: with Applications in R Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani. 2015 Edition, Springer.](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf)
+[An Introduction to Statistical Learning: with Applications in R (ISLR), Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani. 2015 Edition, Springer.](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf)
 
-[Python Data Science Handbook, Jake VanderPlas, O'Reilly.](https://jakevdp.github.io/PythonDataScienceHandbook/)
+[Python Data Science Handbook (PDSH), Jake VanderPlas, O'Reilly.](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
-Mining of Massive Datasets. Anand Rajaraman and Jeffrey David Ullman. http://www.mmds.org/
+Mining of Massive Datasets (MMDS). Anand Rajaraman and Jeffrey David Ullman. http://www.mmds.org/
 
 ---
 
-### Week 1: Intro to Machine Learning, Linear Regression
+### Week 1: Intro to Machine Learning
 
 #### Lecture:    
 1. [Syllabus](syllabus.pdf)
 
-1. [Introduction to Machine Learning](slides/IntroMachineLearning.pdf)   
+1. [Introduction to Machine Learning](slides/IntroMachineLearning.pdf)  
 - Demonstrations   
 - Reading: MLSLT Ch. 1  
 
-2. [Linear Regression](slides/LinearRegressionML_Jay.pdf)  
-
-3. [Introduction to Git and GitHub](slides/00_git_github.pdf)
+2. [Introduction to Git and GitHub](slides/00_git_github.pdf)
 -  Reference: [git - the simple guide](http://rogerdudler.github.io/git-guide/)   
 
-4. [Machine Learning Foundations](slides/MachineLearningFoundations.pdf)  
+3. [Machine Learning Foundations](slides/MachineLearningFoundations.pdf)  
 - [End to end machine learning](notebooks/02_end_to_end_machine_learning_project.ipynb)  
 - [Image Classification Using Deep Learning](https://github.com/jayurbain/deep-learning-foundations/blob/master/image-classification/dlnd_image_classification.ipynb)  
 - [Back Pain](https://github.com/jayurbain/BackPain/blob/master/Back%20Pain%20Data%20Analysis.ipynb)     
 - [Vehicle Detection](https://github.com/jayurbain/CarND-Vehicle-Detection)    
-
 - Reading: MLSLT Ch. 2   
 
 #### Lab Notebooks:
-- [Using Jupyter Notebooks](notebooks/lab_0_python/lab_0_jupyter.ipynb)  
+- [Using Jupyter Notebooks](notebooks/lab_0_python/lab_0_jupyter.ipynb)    
 - [Python Programming for Data Science](notebooks/lab_0_python/lab_0_python.ipynb) *Submission required*
 - [Python Numpy](notebooks/4&#32;-&#32;Python&#32;Numpy.ipynb) *Submission required*    
-
-*Note: Initiate walkthrough of hands-on notebooks with students, let them complete submissions on their own.*  
 
 #### Optional tutorial notebooks:   
 - [Python Objects, Map, Lambda, and List Comprehensions](<notebooks/3&#32;-&#32;Python&#32;Objects&#32;Map&#32;Lambda&#32;List&#32;Comprehensions.ipynb>) 
@@ -90,127 +85,153 @@ Outcomes addressed in week 1:
 
 ---
 
-### Week 2: Gradient Descent Learning, Logistic Regression
-
-#### Lecture:   
-
-1. [Gradient Descent](slides/LogisticRegressionML_Jay.pdf)   
-- [Normal Equation Derivation](http://jayurbain.com/msoe/cs498-machinelearning/Normal%20Equation%20derivation%20for%20linear%20regression.pdf)   
-
-2. [Logistic Regression](slides/LogisticRegressionML_Jay.pdf)    
-
-#### Lab Notebooks:
-- [Gradient Descent Learning](notebooks/gradient_descent_assignment.ipynb) *Submission required*
-
-#### Optional exercise:   
-[Online Machine Learning with Stochastic Gradient Descent](notebooks/Online%20Machine%20Learning.ipynb)
-
-Outcomes addressed in week 2:   
-- Understand the concepts of learning theory, i.e., what is learnable, bias, variance, overfitting.
-- Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.   
-
----
-
-### Week 3: Model Selection and Regularization, Decision Trees  
-
-#### Lecture:   
-
-1. [Model selection and regularization](slides/Regularization_and_overfittingML.pdf)  
-
-2. [Decision Trees, Overfitting, Model Selection, Techniques to Improve Classifier Accuracy Slides](slides/dm08ClassBasic.pdf)  
-- [Information Gain Calculation Spreadsheet](http://jayurbain.com/msoe/cs4881/infogain.xls)
-
-#### Lab Notebooks:
-[Introduction to Machine Learning with SciKit Learn.ipynb](notebooks/Introduction%20to%20Machine%20Learning%20with%20SciKit%20Learn.ipynb)   
-[Supervised Learning - Linear Regression](notebooks/Supervised%20Learning%20-%20%20Linear%20Regression.ipynb)   *Submission required*   
-[Supervised Learning - Logistic Regression](notebooks/Supervised%20Learning%20-%20Logistic%20Regression.ipynb)  *Submission required*   
-[Generalized Linear Models](notebooks/Generalized%20Linear%20Models%20and%20Regularization.ipynb) *Optional*   
-
-Outcomes addressed in week 3:    
-- Understand the concepts of learning theory, i.e., what is learnable, bias, variance, overfitting.  
-- Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.  
-- The ability to analyze a data set including the ability to understand which data attributes (dimensions) affect the outcome.  
-
----
-
-#### Week 4: Probabilistic Models
+#### Week 2: Linear Regression, Multivariate Regression  
 
 #### Lecture:
 
-1. [Validation, Bagging, Boosting, Random Forests](slides/validation_boostrap_boosting.pdf)
+1. [Linear Regression 1](slides/08_linear_regression.pdf)
+- Reading: PDSH Ch. 5 p. 331-375, 390-399  
+- Reading: ISLR Ch. 1, 2  
 
-2. [Naive Bayes Slides 87-102](slides/dm08ClassBasic.pdf)
-
-3. [Bayesian Networks](slides/m14-bayesian.pdf)  *optional*   
-- [BayesianNetworkSprinklerExample.xls](slides/BayesianNetworkSprinklerExample.xls)
+2. [Linear Regression Notebook](notebooks/08_linear_regression.ipynb) *Use for second lecture*  
+- [Linear Regression 2](slides/08_linear_regression.pdf)   
+- [Normal Equation Derivation](http://jayurbain.com/msoe/cs498-machinelearning/Normal%20Equation%20derivation%20for%20linear%20regression.pdf)    
+- Reading: ISLR Ch. 3  
+- Reading: PDSH Ch. 5 p. 359-375   
 
 #### Lab Notebooks:  
 
-- [Decision Trees with Scikit Learn](notebooks/Decision%20Trees.ipynb) *Submission required*   
-- [Random Forests and Boosting](notebooks/Lab9_DT_RF_Boosting/RF_and_Boosting.ipynb)  
-- XGBoost  
+- [Introduction to Machine Learning with Scikit Learn](notebooks/Lab3_LinearRegression/Introduction&#32;to&#32;Machine&#32;Learning&#32;with&#32;SciKit&#32;Learn.ipynb)    
+- [Supervised Learning Linear Regression](notebooks/Lab3_LinearRegression/Supervised&#32;Learning&#32;-&#32;&#32;Linear&#32;Regression.ipynb) *Submission required*  
+- [Generalized Linear Models](notebooks/Generalized%20Linear%20Models%20and%20Regularization.ipynb) *Optional*   
 
 Outcomes addressed in week 4:   
-- Understand the concepts of learning theory, i.e., what is learnable, bias, variance, overfitting.  
-- Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.  
 - The ability to analyze a data set including the ability to understand which data attributes (dimensions) affect the outcome.  
-- Understand the application of learned models to problems in classification, prediction, clustering, computer vision, and NLP.  
+- The ability to perform basic data analysis and statistical inference.  
+- The ability to perform supervised learning of prediction models.
+- The ability to perform data visualization and report generation.   
+- The ability to apply methods to real world data sets.
 
 ---
 
-### Week 5: Unsupervised Learning
+### Week 3: Introduction to Classification, KNN, Model Evaluation and Metrics. Logistic Regression
 
-#### Lecture:
+#### Lecture:  
 
-1. [K-Means Clustering](slides/dm10ClusBasic.pdf)  
-2. [Hierarchical Agglomerative and Probabilistic Clustering](slides/dm10ClusBasic.pdf)  
+1. [Introduction to Machine Learning with KNN](slides/06_machine_learning_knn.pdf)  
+- Reading: ISLR Ch. 4.6.5  
+
+2. [Logistic Regression Classification](slides/09_logistic_regression_classification.pdf)  
+- Reading: ISLR Ch. 4  
 
 #### Lab Notebooks:   
-- [Clustering](notebooks/Clustering.ipynb)  *Submission required*      
+- [Supervised Learning - Logistic Regression](notebooks/Lab5_Logistic_Regression/Supervised&#32;Learning&#32;-&#32;Logistic&#32;Regression.ipynb)   *Submission required*   
 
-Outcomes addressed in week 5:   
-- Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.  
-- The ability to analyze a data set including the ability to understand which data attributes (dimensions) affect the outcome.  
-- Understand the application of learned models to problems in classification, prediction, clustering, computer vision, and NLP.  
-
----
-
-#### Week 6: Midterm, Dimensionality Reduction
-
-#### Lecture:
-1. [Dimensionality Reduction](slides/DimensionalityReduction.pdf)  
-
-2. [Midterm exam](http://jayurbain.com/msoe/cs498-machinelearning/Machine%20Learning%20Midterm%20Exam%20Review.pdf)   
-
-#### Lab Notebooks:   
-- [SVD](notebooks/Lab6_Classification_PCA/Singular&#32;Value&#32;Decomposition.ipynb)  *Hands-on only*   
-- [PCA](notebooks/Lab6_Classification_PCA/classification-and-pca-lab.ipynb)   *Hands-on only*  
-
-Outcomes addressed in week 6:
-- Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.  
-- The ability to analyze a data set including the ability to understand which data attributes (dimensions) affect the outcome.  
+Outcomes addressed in week 4:     
+- The ability to assess the quality of predictions and inferences.  
+- The ability to apply methods to real world data sets.  
+- The ability to perform supervised learning of prediction models.  
 
 ---
 
-#### Week 7: Introduction to Neural Networks and Deep Learning  
+### Week 4: Model Selection and Regularization, ROC, Decision Trees  
+
+#### Lecture:   
+
+1. [Model Evaluation and Metrics, ROC](slides/07_model_evaluation_and_metrics.pdf)   
+- [Scikit-learn ROC Curve notebook](notebooks/plot_roc.ipynb)  
+- Reading: PDSH Ch. 5 p. 331-375, 390-399   
+- Reading: ISLR Ch. 5 
+
+2. [Regularization and overfitting](slides/Regularization_and_overfitting.pdf) 
+
+3. [Decision Trees](slides/08_decision_trees.pdf)   
+- Reading: PDSH Ch. 5 p. 421-432  
+- Reading: ISLR Ch. 8.1    
+- [Information Gain Calculation Spreadsheet](http://jayurbain.com/msoe/cs4881/infogain.xls)
+
+#### Lab Notebooks:
+- [Decision Trees](notebooks/Lab7_DecisionTrees/Decision&#32;Trees.ipynb) *submission required*
+- [Random Forests](notebooks/Random-Forests.ipynb) *submission required* 
+
+Outcomes:  
+- Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.  
+- The ability to analyze a data set including the ability to understand which data attributes (dimensions) affect the outcome.  
+- Understand the application of learned models to problems in classification, prediction, clustering, computer vision, and NLP.      
+- The ability to assess the quality of predictions and inferences.  
+- The ability to apply methods to real world data sets.  
+
+ 
+#### Week 5: Bagging, Random Forests, Boosting, XGBoost
+
+1. [Bagging, Random Forests, Boosting](slides/Bagging_RF_Boosting.pdf) 
+- Reading: PDSH Ch. 5 p. 421-432  
+- Reading: ISLR Ch. 8.2  
+
+#### Lecture:    
+1. [Gradient Boosting, XGBoost](slides/gradient_boosting.ipynb)  
+
+2. - Midterm Exam: 
+[Midterm review study guide]()  
+
+#### Lab Notebooks:  
+- [Random Forests](notebooks/Random-Forests.ipynb) *optional* 
+- [Random Forests and Gradient Boosting](notebooks/XGBoost.ipynb) *submission required*  
+- [Ensembling](notebooks/16_ensembling.ipynb)  *optional*   
+  
+Outcomes:  
+- Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.  
+- The ability to analyze a data set including the ability to understand which data attributes (dimensions) affect the outcome.  
+- Understand the application of learned models to problems in classification, prediction, clustering, computer vision, and NLP.      
+- The ability to assess the quality of predictions and inferences.  
+- The ability to apply methods to real world data sets. 
+---
+
+#### Week 6: Midterm
+
+#### Lecture:  
+
+1. [Midterm Exam Review]() 
+
+2. - Midterm Exam 
+
+#### Lab Notebooks:  
+- Decision tree, RF, and XGBoost labs continued.
+
+Outcomes:    
+
+Outcomes:  
+- Understand the concepts and application of supervised, unsupervised, semi-supervised, and reinforcement learning.  
+- The ability to analyze a data set including the ability to understand which data attributes (dimensions) affect the outcome.  
+- Understand the application of learned models to problems in classification, prediction, clustering, computer vision, and NLP.      
+- The ability to assess the quality of predictions and inferences.  
+- The ability to apply methods to real world data sets. 
+
+---
+
+#### Week 7: Introduction to Deep Learning and Gradient Descent Learning  
 
 #### Lecture:
 
-1. [Deep Learning Introduction 1](slides/Deep&#32;Learning&#32;Introduction.pdf)
+1. [Deep Learning Introduction 1](slides/Deep&#32;Learning&#32;Introduction.pdf)  
+- [Gradient Descent](slides/LogisticRegressionML_Jay.pdf)   
+- [Gradient Descent notebook](notebooks/GradientDescent.ipynb)   
 
 2. [Deep Learning Introduction 2](slides/dli/Lecture-2-1-dl-intro-urbain.pdf)
 
 3. [Backpropagation](slides/dli/Lecture-2-3-dl-backprop2-urbain.pdf)   
 
-#### Lab Notebooks:  
+#### Lab Notebooks:
+- [Gradient Descent Learning](notebooks/gradient_descent_assignment.ipynb) *Submission required*
+- [Online Machine Learning with Stochastic Gradient Descent](notebooks/Online%20Machine%20Learning.ipynb)  *optional*   
+
+#### TBD:     
 *Option 1*   
 - [Introduction to TensorFlow](notebooks/deep_learning_intro/Tensorflow-task.ipynb) *Submission required*   
 - [Neural Network Fundamentals](notebooks/deep_learning_intro/my1stNN.ipynb) *Submission required*   
 *Option 2*   
 - [Introduction to TensorFlow](https://github.com/jayurbain/TensorFlowIntro) *Submission required*   
 - [Neural Network Fundamentals](notebooks/NeuralNetworkIntro-Student.ipynb) *Submission required*   
-
-*Note: need to prune answers from notebooks*   
 
 Outcomes addressed in week 8:
 - Understand the concepts of learning theory, i.e., what is learnable, bias, variance, overfitting.  
