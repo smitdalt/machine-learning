@@ -170,7 +170,7 @@ Outcomes:
 #### Lecture:    
 1. [Gradient Boosting, XGBoost](slides/gradient_boosting.pdf)  
 
-2. - Midterm Exam: 
+2. Midterm Exam: 
 [Midterm review study guide]()  
 
 #### Lab Notebooks:  
@@ -192,7 +192,7 @@ Outcomes:
 
 1. [Midterm Exam Review]() 
 
-2. - Midterm Exam 
+2. Midterm Exam 
 
 #### Lab Notebooks:  
 - Decision tree, RF, and XGBoost labs continued.
@@ -247,8 +247,9 @@ Outcomes addressed in week 8:
 2. [Convnets](slides/dli/Lecture-3-2-convnets-intro-urbain.pdf)  
 
 #### Lab Notebooks:   
-[Keras Intro](notebooks/deep_learning_intro/Keras-task.ipynb) *Submission required*   
-[Image Classification](notebooks/computer_vision/cnn_cifar10.ipynb) *Submission required*   
+- [Introduce Data Science Project]()    
+- [Keras Intro](notebooks/deep_learning_intro/Keras-task.ipynb) *Submission required*   
+- [Image Classification](notebooks/computer_vision/cnn_cifar10.ipynb) *Submission required*   
 
 *Note: need to prune answers from notebooks*   
 
