@@ -98,6 +98,10 @@ Outcomes addressed in week 1:
 - Reading: ISLR Ch. 3  
 - Reading: PDSH Ch. 5 p. 359-375   
 
+1. [Linear Regression 2](slides/08_linear_regression.pdf)
+- Reading: PDSH Ch. 5 p. 331-375, 390-399  
+- Reading: ISLR Ch. 1, 2  
+
 #### Lab Notebooks:  
 
 - [Introduction to Machine Learning with Scikit Learn](notebooks/Lab3_LinearRegression/Introduction&#32;to&#32;Machine&#32;Learning&#32;with&#32;SciKit&#32;Learn.ipynb)    
