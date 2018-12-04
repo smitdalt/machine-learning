@@ -98,15 +98,13 @@ Outcomes addressed in week 1:
 - Reading: ISLR Ch. 3  
 - Reading: PDSH Ch. 5 p. 359-375   
 
-1. [Linear Regression 2](slides/08_linear_regression.pdf)
-- Reading: PDSH Ch. 5 p. 331-375, 390-399  
-- Reading: ISLR Ch. 1, 2  
+3. [Generalized Linear Models Notebook](notebooks/Generalized%20Linear%20Models%20and%20Regularization.ipynb) *Optional* 
 
 #### Lab Notebooks:  
 
 - [Introduction to Machine Learning with Scikit Learn](notebooks/Lab3_LinearRegression/Introduction&#32;to&#32;Machine&#32;Learning&#32;with&#32;SciKit&#32;Learn.ipynb)    
 - [Supervised Learning Linear Regression](notebooks/Lab3_LinearRegression/Supervised&#32;Learning&#32;-&#32;&#32;Linear&#32;Regression.ipynb) *Submission required*  
-- [Generalized Linear Models](notebooks/Generalized%20Linear%20Models%20and%20Regularization.ipynb) *Optional*   
+notebooks/Lab3_LinearRegression/bike_sharing_regression.ipynb) *Optional extra credit submission*  
 
 Outcomes addressed in week 4:   
 - The ability to analyze a data set including the ability to understand which data attributes (dimensions) affect the outcome.  
