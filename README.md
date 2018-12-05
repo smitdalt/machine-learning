@@ -104,7 +104,7 @@ Outcomes addressed in week 1:
 
 - [Introduction to Machine Learning with Scikit Learn](notebooks/Lab3_LinearRegression/Introduction&#32;to&#32;Machine&#32;Learning&#32;with&#32;SciKit&#32;Learn.ipynb)    
 - [Supervised Learning Linear Regression](notebooks/Lab3_LinearRegression/Supervised&#32;Learning&#32;-&#32;&#32;Linear&#32;Regression.ipynb) *Submission required*  
-- [Bike Demand Linear Regression](notebooks/Lab3_LinearRegression/bike_sharing_regression.ipynb) *Optional extra credit submission*  
+- [Bike Demand Linear Regression](notebooks/Lab3_LinearRegression/bike_sharing_demand_regression.ipynb) *Optional extra credit submission*  
 
 Outcomes addressed in week 4:   
 - The ability to analyze a data set including the ability to understand which data attributes (dimensions) affect the outcome.  
