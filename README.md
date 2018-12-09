@@ -118,11 +118,14 @@ Outcomes addressed in week 4:
 ### Week 3: Introduction to Classification, KNN, Model Evaluation and Metrics. Logistic Regression
 
 #### Lecture:  
+1. [Linear Model Selection and Regularization](slides/linear_model_selection_and_regularization.pdf)   
+]
+- Reading: ISLR Ch. 6    
 
-1. [Introduction to Machine Learning with KNN](slides/06_machine_learning_knn.pdf)  
+2. [Introduction to Machine Learning with KNN](slides/06_machine_learning_knn.pdf)  
 - Reading: ISLR Ch. 4.6.5  
 
-2. [Logistic Regression Classification](slides/09_logistic_regression_classification.pdf)  
+3. [Logistic Regression Classification](slides/09_logistic_regression_classification.pdf)  
 - Reading: ISLR Ch. 4  
 
 #### Lab Notebooks:   
