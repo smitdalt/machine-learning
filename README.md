@@ -129,7 +129,8 @@ Outcomes addressed in week 4:
 - Reading: ISLR Ch. 4  
 
 #### Lab Notebooks:   
-- [Supervised Learning - Logistic Regression](notebooks/Lab5_Logistic_Regression/Supervised&#32;Learning&#32;-&#32;Logistic&#32;Regression.ipynb)   *Submission required*   
+- [Gradient Descent](notebooks/gradient_descent_assignment.ipynb)   *Submission required*   
+- [Linear Regression - Recursive Feature Elimination - Bike sharing data set](notebooks/Lab3_LinearRegression/bike-sharing-demand-regression-rfe.ipynb)   *Submission required*
 
 Outcomes addressed in week 4:     
 - The ability to assess the quality of predictions and inferences.  
@@ -155,6 +156,7 @@ Outcomes addressed in week 4:
 - [Information Gain Calculation Spreadsheet](http://jayurbain.com/msoe/cs4881/infogain.xls)
 
 #### Lab Notebooks:
+- [Supervised Learning - Logistic Regression](notebooks/Lab5_Logistic_Regression/Supervised&#32;Learning&#32;-&#32;Logistic&#32;Regression.ipynb)   *Submission required*   
 - [Decision Trees](notebooks/Lab7_DecisionTrees/Decision&#32;Trees.ipynb) *submission required*
 - [Random Forests](notebooks/Random-Forests.ipynb) *submission required* 
 
