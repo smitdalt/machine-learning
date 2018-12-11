@@ -119,7 +119,6 @@ Outcomes addressed in week 4:
 
 #### Lecture:  
 1. [Linear Model Selection and Regularization](slides/linear_model_selection_and_regularization.pdf)   
-]
 - Reading: ISLR Ch. 6    
 
 2. [Introduction to Machine Learning with KNN](slides/06_machine_learning_knn.pdf)  
